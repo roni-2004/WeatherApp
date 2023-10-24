@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.brandname{
+    font-family: 'Bebas Neue';
+ 
+}
+
+#checkbutton{
+    margin-bottom: 1px;
+    padding: 7px 15px 7px 15px;
+}
+
+#cityInput{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5%;
+    border:solid 1px black;
+}
+
+.weathercard{
+    margin-top: 0px;
+}
+
+#desbox{
+    text-transform: capitalize;
+}
+
